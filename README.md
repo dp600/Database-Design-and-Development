@@ -1,4 +1,3 @@
-# Database-Design-and-Development
 # Car Dealership Database — Design & Development
 
 A relational database for a car dealership that manages **sales**, **service tickets**, **customers**, and **GDPR-aware personal data**.  
