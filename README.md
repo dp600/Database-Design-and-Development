@@ -59,6 +59,7 @@ Core deliverables include the **ERD**, **Data Dictionary**, **Test Plan**, and *
 Create core tables with PK/FK relationships.
 
 
+
 1.
 
 
