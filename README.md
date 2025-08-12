@@ -61,6 +61,8 @@ Create core tables with PK/FK relationships.
 
 
 1.
+
+
 <img width="226" height="406" alt="image" src="https://github.com/user-attachments/assets/a472c3a5-a429-4428-ac9b-b802248f28ae" />
 
 
